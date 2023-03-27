@@ -12,3 +12,12 @@
  <img src="https://user-images.githubusercontent.com/62361708/224350839-5483032d-8053-4797-ae60-fba44476ce73.png" width=128>
  <img src="https://user-images.githubusercontent.com/62361708/227724184-46950307-c0ed-41ac-a7cd-621601c1edb0.png" width=128>
 </div>
+
+[comment]: <> (Premium Plugins)
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/62361708/228017968-c291619e-fb52-46be-938c-b0598b3bbe0b.png">
+</div>
+
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/62361708/224348494-f5f4ffee-26c9-4085-b5ce-693797246616.png" width=128>
+</div>
