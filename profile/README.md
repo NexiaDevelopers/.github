@@ -4,7 +4,7 @@
 
 [comment]: <> (Free Plugins)
 <div align="center">
- <img src="https://user-images.githubusercontent.com/62361708/228017178-8c6077e7-7597-4edb-a704-5c515786b875.png">
+ <img src="https://user-images.githubusercontent.com/62361708/230602847-670dc989-915d-4142-80b0-efe8eca2b461.png">
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 
 [comment]: <> (Premium Plugins)
 <div align="center">
- <img src="https://user-images.githubusercontent.com/62361708/228017968-c291619e-fb52-46be-938c-b0598b3bbe0b.png">
+ <img src="https://user-images.githubusercontent.com/62361708/230602876-8e9b8595-9049-404c-8ce9-a1d295fe0b18.png">
 </div>
 
 <div align="center">
