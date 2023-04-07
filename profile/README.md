@@ -8,9 +8,10 @@
 </div>
 
 <div align="center">
- <img src="https://user-images.githubusercontent.com/62361708/224549985-d6e658e3-eaa1-426f-9669-7dd4503407a5.png" width=128>
- <img src="https://user-images.githubusercontent.com/62361708/224350839-5483032d-8053-4797-ae60-fba44476ce73.png" width=128>
- <img src="https://user-images.githubusercontent.com/62361708/227724184-46950307-c0ed-41ac-a7cd-621601c1edb0.png" width=128>
+ <img src="https://user-images.githubusercontent.com/62361708/230603183-964c8a93-ee96-4a90-a67f-082f4d7e533a.png" width=128>
+ <img src="https://user-images.githubusercontent.com/62361708/230603218-42362606-835c-4018-a302-b5030610c5bb.png" width=128>
+ <img src="https://user-images.githubusercontent.com/62361708/230603238-7a0069e1-c907-47e6-a631-3e64e5f7e145.png" width=128>
+ <img src="https://user-images.githubusercontent.com/62361708/230603264-6e13e4db-80cb-4e9e-8c56-d2d9e8c3b8b3.png" width=128>
 </div>
 
 [comment]: <> (Premium Plugins)
@@ -19,6 +20,6 @@
 </div>
 
 <div align="center">
- <img src="https://user-images.githubusercontent.com/62361708/224348494-f5f4ffee-26c9-4085-b5ce-693797246616.png" width=128>
- <img src="https://user-images.githubusercontent.com/62361708/228018920-4f757fd3-8e44-4f75-a389-887c1318729e.png" width=128>
+ <img src="https://user-images.githubusercontent.com/62361708/230603678-1ce7cd1e-e637-4379-bb31-52b734ece682.png" width=128>
+ <img src="https://user-images.githubusercontent.com/62361708/230603711-aadb300b-c549-4f57-9122-51c4aecb11dc.png" width=128>
 </div>
